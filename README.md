@@ -1,1 +1,1 @@
-Exercice JS
+Exercice JS projet dev web
